@@ -2,6 +2,6 @@ package topic0_KeyPoint3;
 
 public abstract class Hospital {
 	
-	public abstract String setSpeciality();
+	public abstract String getSpeciality();
 
 }

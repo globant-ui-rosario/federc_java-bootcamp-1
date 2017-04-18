@@ -2,7 +2,7 @@ package topic0_KeyPoint2;
 
 public class BuildingDirector {
 	
-	private BuildingBuilder buildingBuilder = null;
+	private BuildingBuilder buildingBuilder;
 
 	public BuildingDirector(BuildingBuilder buildingBuilder) {
 		this.buildingBuilder = buildingBuilder;
