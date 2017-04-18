@@ -1,0 +1,15 @@
+/test/*
+/build/*
+/dist/*
+/libraryencrypt/*
+/nbproject/*
+bin/
+.*
+/bin
+/RemoteSystemsTempFiles
+RemoteSystemsTempFiles/
+/.classpath
+/.project
+/.settings
+/target
+build.xml
