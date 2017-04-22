@@ -2,9 +2,9 @@ package keyPoint6;
 
 public interface EventSubject {
 	
-	public void addObserver(Employer employer);
+	public void addObserver(EventObserver eventObserver); // this could be the market manager
 
-	public void removeObserver(Employer employer);
+	public void removeObserver(EventObserver eventObserver);
 
 	public void doNotify();
 
