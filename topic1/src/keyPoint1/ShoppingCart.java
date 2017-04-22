@@ -4,6 +4,10 @@ import java.util.ArrayList;
 
 public class ShoppingCart {
 	
+	public ShoppingCart(){
+		
+	}
+	
 	private Client client;
 	private ShoppingCartLine shoppingCartLine;
 	private ArrayList<ShoppingCartLine> shoppingCartLineCollection;

@@ -10,8 +10,27 @@ public class MainProgram {
 		// before reading items to add, I create the Controller
 		ControllerShoppingCart CSC = new ControllerShoppingCart();
 		
-		// after reading items[name+quantity], one by one until finish
-		CSC.AddItem(name, quant);
+		// I create a new shoppingCart, using the controller
+		ShoppingCart shoppingCart = CSC.createNewShoppingCart();
+		
+		// I read items[name+quantity], one by one until client decides to finish
+		String name = "a";			//
+		int quant = 3;				// iteration
+		CSC.AddItem(name, quant);   // 
+		
+		
+		// when client decides to finish, client enters a pay method
+		
+				//pay by credit card
+				CSC.pay(new CreditCardMethod("John","555555555"));
+				
+				//pay by paypal
+				CSC.pay(new PayPalMethod("john@a.com", "*****"));
+				
+				//pay by cash
+				CSC.pay(new CashMethod());
+				
+				
 		
 		
     }
