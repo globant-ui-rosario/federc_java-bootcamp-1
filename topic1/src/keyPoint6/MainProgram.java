@@ -6,7 +6,8 @@ import java.util.Iterator;
 public class MainProgram {
 	
 	public static void main(String[] args) {
-
+		
+		
 		// after reading a Client, I obtain:
 		Client c = new Client("John");
 		
@@ -15,6 +16,8 @@ public class MainProgram {
 		
 		// I create a new shoppingCart, using the controller
 		ShoppingCart shoppingCart = CSC.createNewShoppingCart(c);
+		
+		
 		
 		// I consider "list of items to display (exercise 4)" as the list that the client watches before select them
 		ArrayList<Item> allItems = new ArrayList<Item>();
@@ -27,6 +30,7 @@ public class MainProgram {
 		}
 		
 		// I create an offer
+				
 		ArrayList<Item> itemsToOffer = new ArrayList<Item>();
 		iterator = itemsToOffer.iterator();
 		Item it1 = new Item("a",3);
@@ -35,7 +39,9 @@ public class MainProgram {
 		itemsToOffer.add(it1);
 		itemsToOffer.add(it2);
 		itemsToOffer.add(it3);
-		Offer offer = new Offer("a-b-c combo", itemsToOffer);
+		
+		Offer offer = CSC.createAnOffer("a-b-c combo", itemsToOffer);
+		
 		
 		
 		// I display the offer
@@ -54,16 +60,21 @@ public class MainProgram {
 		
 		// when client decides to finish, client enters a pay method
 		
-				//pay by credit card
-				CSC.pay(new CreditCardMethod("John","555555555"));
+		//pay by credit card
+		CSC.pay(new CreditCardMethod("John","555555555"));
 				
-				//pay by paypal
-				CSC.pay(new PayPalMethod("john@a.com", "*****"));
+		//pay by paypal
+		CSC.pay(new PayPalMethod("john@a.com", "*****"));
 				
-				//pay by cash
-				CSC.pay(new CashMethod());
+		//pay by cash
+		CSC.pay(new CashMethod());
 				
-				
+		// In any moment, if it is decided to alter the price of one item...
+		float p = 0;
+		Item i = new Item();
+		CSC.changePrice(p,i);
+		
+		
 		
 		
     }

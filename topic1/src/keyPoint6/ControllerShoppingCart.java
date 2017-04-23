@@ -2,7 +2,9 @@ package keyPoint6;
 
 import java.util.ArrayList;
 
-public class ControllerShoppingCart {
+public class ControllerShoppingCart implements Observable{
+	
+	ArrayList<Observer> users = new ArrayList<Observer>(); // list of users who are interested to know about <a new item/offer is added> or <A price is changed> or <A new transaction was made>
 
 	private ShoppingCart actualShoppingCart;
 	private CatItems catItems;
@@ -20,6 +22,7 @@ public class ControllerShoppingCart {
 	public ShoppingCart createNewShoppingCart(Client c){
 		actualShoppingCart = new ShoppingCart(c);
 		idPaymentTransaction++; // each new shopping cart, the identificator increases by one
+		notifyObserver("new transaction created"); // activates a notify
 		return actualShoppingCart;
 	}
 	
@@ -46,6 +49,37 @@ public class ControllerShoppingCart {
 		// get all items
 		return allItems;
 	}
+
+	public Offer createAnOffer(String string, ArrayList<Item> itemsToOffer) {
+		Offer offer = new Offer("a-b-c combo", itemsToOffer);
+		notifyObserver("offer created"); // activates a notify
+		return offer;
+		
+	}
+
+	public void changePrice(float p, Item i) {
+		
+		// change price
+		notifyObserver("price changed"); // activates a notify
+		
+	}
+	
+	@Override
+	public void addObserver(Observer o){
+		users.add(o);
+	}
+	@Override
+	public void removeObserver(Observer o){
+		users.remove(o);
+	}
+	@Override
+	public void notifyObserver(String event){
+		// notify all users from the user list
+		for(Observer user: users){
+			user.update(event);
+		}
+	}
+	
 	
 	
 	
