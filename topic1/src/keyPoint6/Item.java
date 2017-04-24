@@ -3,7 +3,7 @@ package keyPoint6;
 public class Item {
 	
 	private String name;
-	private float price;
+	private double price;
 	
 	public String getName() {
 		return name;
@@ -13,11 +13,11 @@ public class Item {
 		this.name = name;
 	}
 
-	public float getPrice() {
+	public double getPrice() {
 		return price;
 	}
 
-	public void setPrice(float price) {
+	public void setPrice(double price) {
 		this.price = price;
 	}
 
@@ -25,7 +25,7 @@ public class Item {
 		
 	}
 	
-	public Item(String name, float price){
+	public Item(String name, double price){
 		this.setName(name);
 		this.setPrice(price);
 	}

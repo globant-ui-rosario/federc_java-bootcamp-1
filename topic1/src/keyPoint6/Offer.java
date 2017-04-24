@@ -40,5 +40,10 @@ public class Offer {
 	public void setItems(ArrayList<Item> items) {
 		this.items = items;
 	}
+	
+	@Override
+	public String toString() {
+		return "name: "+name+ " ----- $" + total;
+	}	
 
 }

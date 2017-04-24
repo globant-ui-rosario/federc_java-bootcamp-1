@@ -1,14 +1,14 @@
 package keyPoint6;
 
 import java.util.ArrayList;
+import java.util.List;
 
 public class ControllerShoppingCart implements Observable{
 	
 	ArrayList<Observer> users = new ArrayList<Observer>(); // list of users who are interested to know about <a new item/offer is added> or <A price is changed> or <A new transaction was made>
 
 	private ShoppingCart actualShoppingCart;
-	private CatItems catItems;
-	private Client actualClient;
+	private CatalogueItems catalogueItems;	
 	private static int idPaymentTransaction = 0; // business rules: " each operation (each new shoppingcart) it only has ONE 
 											     // 				  payment method; is not allow to pay with, for example
 											     //					  half cash half credit card"
@@ -20,8 +20,8 @@ public class ControllerShoppingCart implements Observable{
 	}
 	
 	public ShoppingCart createNewShoppingCart(Client c){
-		actualShoppingCart = new ShoppingCart(c);
 		idPaymentTransaction++; // each new shopping cart, the identificator increases by one
+		actualShoppingCart = new ShoppingCart(c,idPaymentTransaction);		
 		notifyObserver("new transaction created"); // activates a notify
 		return actualShoppingCart;
 	}
@@ -30,8 +30,7 @@ public class ControllerShoppingCart implements Observable{
 	
 	public void AddItem(String name, int quant){
 		// first I search for the item
-		Item item = new Item();
-		item = catItems.serchItem(name);
+		Item item = catalogueItems.searchItem(name);
 		
 		// then, once I got that item, I create a LINE (item+quantity)		
 		ShoppingCartLine shoppingCartLine = new ShoppingCartLine(item, quant);
@@ -40,7 +39,7 @@ public class ControllerShoppingCart implements Observable{
 	}
 	
 	public void pay(PaymentMethod paymentMethod){
-		ArrayList<ShoppingCartLine> shoppingCartLineCollection = actualShoppingCart.getShoppingCartLine();
+		List<ShoppingCartLine> shoppingCartLineCollection = actualShoppingCart.getShoppingCartLine();
 		paymentMethod.pay(shoppingCartLineCollection);
 	}
 
@@ -57,8 +56,7 @@ public class ControllerShoppingCart implements Observable{
 		
 	}
 
-	public void changePrice(float p, Item i) {
-		
+	public void changePrice(double p, Item i) {		
 		// change price
 		notifyObserver("price changed"); // activates a notify
 		

@@ -9,15 +9,21 @@ public class MainProgram {
 		
 		
 		// after reading a Client, I obtain:
-		Client c = new Client("John");
-		
+		String cname="John";
+		int cardnumber=555555555;
+		String email="john@a.com";
+		String password="*****";		
+		Client c = new Client();
+		c.setEmail(email);
+		c.setIdcard(cardnumber);
+		c.setName(cname);
+		c.setPassword(password);
+				
 		// before reading items to add, I create the Controller
 		ControllerShoppingCart CSC = new ControllerShoppingCart();
 		
 		// I create a new shoppingCart, using the controller
-		ShoppingCart shoppingCart = CSC.createNewShoppingCart(c);
-		
-		
+		ShoppingCart shoppingCart = CSC.createNewShoppingCart(c);		
 		
 		// I consider "list of items to display (exercise 4)" as the list that the client watches before select them
 		ArrayList<Item> allItems = new ArrayList<Item>();
@@ -45,10 +51,10 @@ public class MainProgram {
 		
 		
 		// I display the offer
-		System.out.println(offer.getName()+"----$: "+offer.getTotal()); // offer name + total price
+		System.out.println(offer); // offer name + total price
 		ArrayList<Item> items = offer.getItems();
 		for(Item i: items){
-			System.out.println(i.getName()+"----$: "+i.getPrice()); // item name + individual price
+			System.out.println(i); // item name + individual price
 					}
 		
 		
@@ -70,7 +76,7 @@ public class MainProgram {
 		CSC.pay(new CashMethod());
 				
 		// In any moment, if it is decided to alter the price of one item...
-		float p = 0;
+		double p = 0;
 		Item i = new Item();
 		CSC.changePrice(p,i);
 		

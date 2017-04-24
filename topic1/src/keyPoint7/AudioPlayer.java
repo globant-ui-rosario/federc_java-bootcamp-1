@@ -8,9 +8,7 @@ public class AudioPlayer {  // State Pattern Design used
 		this.setState(playingState);
 	}
 	
-	private AudioPlayer(State state) {
-	    this.state= state;
-	  }
+	
 	  public void play() {
 	    state.pressPlay(this);
 	  }

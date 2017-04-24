@@ -1,6 +1,7 @@
 package keyPoint6;
 
 import java.util.ArrayList;
+import java.util.List;
 
 public class PayPalMethod implements PaymentMethod {  // I must apply Iterator pattern, but i can't figure it out how to do it (relying on the design pattern documentation)
 	
@@ -13,17 +14,19 @@ public class PayPalMethod implements PaymentMethod {  // I must apply Iterator p
 	}
 
 	@Override
-	public void pay(ArrayList<ShoppingCartLine> shoppingCartLineCollection) {
+	public void pay(List<ShoppingCartLine> shoppingCartLineCollection) {
 		
 		System.out.println("paid with PayPal --> cheapest item for free");		
-		float sum=0;
-		for (int index = 0; index < shoppingCartLineCollection.size() ; index++){
-			 
-			//delete cheapest item
-			// then, calculate the total as: sum += price*quant;			
+		double sum=0;
+		double cheapestItem = 999;		
+		for (ShoppingCartLine SCL: shoppingCartLineCollection){
+			 if(SCL.getItem().getPrice()< cheapestItem){
+				 cheapestItem = SCL.getItem().getPrice();
+				  }
+			 sum +=SCL.getSubTotal();
 		}
 		
-		System.out.println("you get: "+ sum);
+		System.out.println("you get: "+ (sum-cheapestItem));
 
 	}
 

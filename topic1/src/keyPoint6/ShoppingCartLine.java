@@ -26,6 +26,10 @@ public class ShoppingCartLine {
 		this.quant = quant;
 	}
 	
+	public double getSubTotal(){
+		return item.getPrice()*quant;
+	}
+	
 	
 
 }

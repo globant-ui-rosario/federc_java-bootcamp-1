@@ -2,25 +2,26 @@ package keyPoint6;
 
 import java.util.ArrayList;
 import java.util.Iterator;
+import java.util.List;
 
-public class CatItems { // It's a Singleton Class
+public class CatalogueItems { // It's a Singleton Class
 	
-	private static CatItems catItems = null;
+	private static CatalogueItems catalogueItems = null;
 	private Item itemSearched;
-	private ArrayList<Item> items = new ArrayList<Item>();
+	private List<Item> items = new ArrayList<Item>();
 
-	public CatItems() {
+	public CatalogueItems() {
 	}
 		
 
-	public static CatItems getInstance() {  // I make sure that this class will have only one instance
-		if (catItems == null) {
-			catItems = new CatItems();
+	public static CatalogueItems getInstance() {  // I make sure that this class will have only one instance
+		if (catalogueItems == null) {
+			catalogueItems = new CatalogueItems();
 		}
-		return catItems;
+		return catalogueItems;
 	}
 
-		public Item serchItem (String name){
+		public Item searchItem (String name){
 			for (Item i: items){
 				if(i.getName().equalsIgnoreCase(name)){
 					itemSearched=i;

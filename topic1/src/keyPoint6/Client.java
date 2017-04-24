@@ -3,6 +3,33 @@ package keyPoint6;
 public class Client {
 	
 	private String name;
+	private String email;
+	private String password;
+	private int idcard;
+
+	public String getEmail() {
+		return email;
+	}
+
+	public void setEmail(String email) {
+		this.email = email;
+	}
+
+	public String getPassword() {
+		return password;
+	}
+
+	public void setPassword(String password) {
+		this.password = password;
+	}
+
+	public int getIdcard() {
+		return idcard;
+	}
+
+	public void setIdcard(int idcard) {
+		this.idcard = idcard;
+	}
 
 	public String getName() {
 		return name;
@@ -12,8 +39,8 @@ public class Client {
 		this.name = name;
 	}
 	
-	public Client(String nameClient){
-		this.setName(nameClient);
+	public Client(){
+	
 	}
 
 }
