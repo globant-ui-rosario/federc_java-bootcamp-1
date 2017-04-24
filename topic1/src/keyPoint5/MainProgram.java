@@ -38,7 +38,7 @@ public class MainProgram {
 		Offer offer = new Offer("a-b-c combo", itemsToOffer);
 		
 		
-		// I display the offer
+		// I display the offer ; agregar tostring offer
 		System.out.println(offer.getName()+"----$: "+offer.getTotal()); // offer name + total price
 		ArrayList<Item> items = offer.getItems();
 		for(Item i: items){

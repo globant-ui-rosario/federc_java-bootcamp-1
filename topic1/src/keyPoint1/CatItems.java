@@ -15,12 +15,13 @@ public class CatItems { // It's a Singleton Class
 		return catItems;
 	}
 
-		public Item serchItem (String name){
+		public Item serchItem (String name){  // modificar (collecion)
 			Item it = new Item();
 			if(it.getName().equalsIgnoreCase(name)){
 				itemSearched=it;
 			}
 			return itemSearched;
+			
 		}
 	
 

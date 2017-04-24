@@ -5,7 +5,7 @@ public class MainProgram {
 	public static void main(String[] args) {
 
 		// after reading a Client, I obtain:
-		Client c = new Client("John");
+		Client c = new Client("John");  // convetir warnings en errores
 		
 		// before reading items to add, I create the Controller
 		ControllerShoppingCart CSC = new ControllerShoppingCart();
@@ -22,7 +22,7 @@ public class MainProgram {
 		// when client decides to finish, client enters a pay method
 		
 				//pay by credit card
-				CSC.pay(new CreditCardMethod("John","555555555"));
+				CSC.pay(new CreditCardMethod("John","555555555"));  // tomar datos del cliente
 				
 				//pay by paypal
 				CSC.pay(new PayPalMethod("john@a.com", "*****"));

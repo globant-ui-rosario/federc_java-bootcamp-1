@@ -21,6 +21,7 @@ public class ControllerShoppingCart {
 		actualShoppingCart = new ShoppingCart(c);
 		idPaymentTransaction++; // each new shopping cart, the identificator increases by one
 		return actualShoppingCart;
+		// asociar el id a cada carrito
 	}
 	
 	

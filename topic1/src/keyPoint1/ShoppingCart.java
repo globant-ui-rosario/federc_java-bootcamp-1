@@ -10,7 +10,7 @@ public class ShoppingCart {
 	
 	private Client client;
 	private ShoppingCartLine shoppingCartLine;
-	private ArrayList<ShoppingCartLine> shoppingCartLineCollection;
+	private ArrayList<ShoppingCartLine> shoppingCartLineCollection ; // inicializar
 	
 	
 	public void setShoppingCartLine(ShoppingCartLine shoppingCartLine) {

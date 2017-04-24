@@ -14,7 +14,7 @@ public class CreditCardMethod implements PaymentMethod {
 	}
 
 	@Override
-	public void pay(ArrayList<ShoppingCartLine> shoppingCartLineCollection) {
+	public void pay(ArrayList<ShoppingCartLine> shoppingCartLineCollection) { // usar double no float
 		System.out.println("paid with credit card --> 10% discount");
 		int sum = 0;
 		for (int index = 0; index < shoppingCartLineCollection.size() ; index++){
@@ -25,7 +25,7 @@ public class CreditCardMethod implements PaymentMethod {
 			sum += price*quant;			
 		}
 		
-		System.out.println("you get: "+ sum*0.9);
+		System.out.println("you get: "+ sum*0.9); // usar constante
 		
 
 	}

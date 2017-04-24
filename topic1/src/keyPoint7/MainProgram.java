@@ -10,8 +10,8 @@ public class MainProgram {
 		// before reading items to add, I create the Controller
 			ControllerShoppingCart CSC = new ControllerShoppingCart();
 			
-		// let's play some music!
-			AudioPlayer audioPlayer = CSC.audioPlayerStarts();
+		// let's play some music! 
+			AudioPlayer audioPlayer = CSC.audioPlayerStarts(); // metodos en AudioPlayer class
 			
 		// in any moment, the client press some audio player buttoms
 			String userAction = "user action(buttom pressed)";

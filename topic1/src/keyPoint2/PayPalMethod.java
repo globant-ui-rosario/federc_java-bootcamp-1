@@ -18,7 +18,7 @@ public class PayPalMethod implements PaymentMethod {  // I must apply Iterator p
 		System.out.println("paid with PayPal --> cheapest item for free");		
 		float sum=0;
 		for (int index = 0; index < shoppingCartLineCollection.size() ; index++){
-			 
+			 // hacerlo
 			//delete cheapest item
 			// then, calculate the total as: sum += price*quant;			
 		}
