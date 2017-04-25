@@ -1,4 +1,4 @@
-package 1000;
+package a1000;
 
 /**
  * Hello world!
