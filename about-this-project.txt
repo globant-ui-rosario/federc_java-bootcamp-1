@@ -1,0 +1,9 @@
+I create a parent project named "parent-project" and modules:
+*model-lib (it depends of iText - a pdf tool-)
+*WebApp1 (it depends of model-lib)
+*WebApp2 (it depends of WebApp1 and model-lib)
+
+
+mvn archetype:generate -DgroupId=com.websys.multimodule  -DartifactId=model-lib
+mvn archetype:generate -DgroupId=com.websys.multimodule  -DartifactId=WebApp1
+mvn archetype:generate -DgroupId=com.websys.multimodule  -DartifactId=WebApp2
