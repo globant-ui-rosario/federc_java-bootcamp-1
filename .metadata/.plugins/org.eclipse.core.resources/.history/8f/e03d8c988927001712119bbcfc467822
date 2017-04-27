@@ -1,0 +1,23 @@
+package keyPoint6;
+
+public class Events implements EventSubject {
+
+	@Override
+	public void addObserver(Employer employer) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void removeObserver(Employer employer) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void doNotify() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

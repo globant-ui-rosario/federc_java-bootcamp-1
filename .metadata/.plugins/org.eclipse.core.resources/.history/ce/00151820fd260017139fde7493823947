@@ -1,0 +1,21 @@
+package keyPoint2;
+
+import java.util.ArrayList;
+
+public class PayPalMethod implements PaymentMethod {
+	
+	private String email;
+	private String password;
+	
+	public PayPalMethod (String mail, String psw){
+		this.email=mail;
+		this.password=psw;
+	}
+
+	@Override
+	public void pay(ArrayList<ShoppingCartLine> shoppingCartLineCollection) {
+		System.out.println("paid with PayPal");
+
+	}
+
+}

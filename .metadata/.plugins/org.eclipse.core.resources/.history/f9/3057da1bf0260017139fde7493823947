@@ -1,0 +1,5 @@
+package keyPoint1;
+
+public interface PaymentMethod {
+
+}

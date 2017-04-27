@@ -1,0 +1,21 @@
+package keyPoint1;
+
+public class CreditCardMethod implements PaymentMethod {
+	
+	private String name;
+	private String cardNumber;
+	
+	public CreditCardMEthod(String nm, String ccNumer){
+		this.name=nm;
+		this.cardNumber=ccNumer;
+		this.cvv=cvv;
+		this.dateOfExpiry=expiryDate;
+	}
+
+	@Override
+	public void pay() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

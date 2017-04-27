@@ -1,0 +1,30 @@
+package keyPoint6;
+
+import java.util.HashSet;
+import java.util.Iterator;
+import java.util.Set;
+
+public class Events implements EventSubject {
+	
+	
+	Set<EventObserver> eventObservers;
+
+	@Override
+	public void addObserver(Employer employer) {
+		eventObservers.add(eventOBservers);
+
+	}
+
+	@Override
+	public void removeObserver(Employer employer) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void doNotify() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

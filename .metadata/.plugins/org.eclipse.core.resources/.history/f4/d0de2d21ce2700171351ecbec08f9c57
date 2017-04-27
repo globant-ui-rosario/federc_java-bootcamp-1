@@ -1,0 +1,35 @@
+package keyPoint7;
+
+public class AudioPlayer {
+	private State state;
+	
+	public AudioPlayer(){
+		PlayingState playingState = new PlayingState();
+		this.setState(PlayingState);
+	}
+	
+	private AudioPlayer(State state) {
+	    this.state= state;
+	  }
+	  public void play() {
+	    state.pressPlay(this);
+	  }
+	  
+	  public void stop() {
+		    state.pressStop(this);
+		  }
+	  
+	  public void pause() {
+		    state.pressPause(this);
+		  }
+
+	public State getState() {
+		return state;
+	}
+
+	public void setState(State state) {
+		this.state = state;
+	}
+	
+
+}

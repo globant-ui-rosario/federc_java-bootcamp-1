@@ -1,0 +1,32 @@
+package keyPoint6;
+
+import java.util.ArrayList;
+
+public class CashMethod implements PaymentMethod {// I must apply Iterator pattern, but i can't figure it out how to do it (relying on the design pattern documentation)
+	
+
+	@Override
+	public void pay(ArrayList<ShoppingCartLine> shoppingCartLineCollection) {
+		System.out.println("paid with cash --> 90% discount of the most expensive item");
+		int sum = 0;
+		for (ShoppingCartLine SCL: shoppingCartLineCollection){
+			// save the the most expensive item in a variable
+			Item mostExpensiveValue = new Item();
+			mostExpensiveValue.setPrice(0);
+			if(SCL.getItem().getPrice() > mostExpensiveValue.getPrice()){
+				mostExpensiveValue = SCL.getItem();
+				
+			}
+			//delete most expensive item
+			// then, calculate the total as: sum += (price*quant)+ variable that contains the value*0.1;	
+		}
+		
+		ArrayList<Item> items = offer.getItems();
+		for(Item i: items){
+			System.out.println(i); // item name + individual price
+					}
+		
+		System.out.println("you get: "+ sum);
+	}
+
+}

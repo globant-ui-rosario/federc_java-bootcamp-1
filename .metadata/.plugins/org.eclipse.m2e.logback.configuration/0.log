@@ -1,0 +1,807 @@
+2017-04-24 17:23:02,611 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/2.5.1/maven-compiler-plugin-2.5.1.jar
+2017-04-24 17:23:03,546 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/2.5.1/maven-compiler-plugin-2.5.1.jar
+2017-04-24 17:23:03,737 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+2017-04-24 17:23:04,045 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/2.5.1/maven-compiler-plugin-2.5.1.pom
+2017-04-24 17:23:04,519 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/2.5.1/maven-compiler-plugin-2.5.1.pom
+2017-04-24 17:23:05,585 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/1.9.1/plexus-compiler-api-1.9.1.pom
+2017-04-24 17:23:06,034 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/1.9.1/plexus-compiler-api-1.9.1.pom
+2017-04-24 17:23:06,262 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/1.9.1/plexus-compiler-1.9.1.pom
+2017-04-24 17:23:06,760 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/1.9.1/plexus-compiler-1.9.1.pom
+2017-04-24 17:23:06,968 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.1.20/plexus-components-1.1.20.pom
+2017-04-24 17:23:07,428 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.1.20/plexus-components-1.1.20.pom
+2017-04-24 17:23:07,652 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/3.1/plexus-3.1.pom
+2017-04-24 17:23:08,121 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/3.1/plexus-3.1.pom
+2017-04-24 17:23:08,355 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/1.9.1/plexus-compiler-manager-1.9.1.pom
+2017-04-24 17:23:08,788 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/1.9.1/plexus-compiler-manager-1.9.1.pom
+2017-04-24 17:23:08,994 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/1.9.1/plexus-compiler-javac-1.9.1.pom
+2017-04-24 17:23:09,425 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/1.9.1/plexus-compiler-javac-1.9.1.pom
+2017-04-24 17:23:09,678 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/1.9.1/plexus-compilers-1.9.1.pom
+2017-04-24 17:23:10,183 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/1.9.1/plexus-compilers-1.9.1.pom
+2017-04-24 17:23:10,419 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/1.9.1/plexus-compiler-api-1.9.1.jar
+2017-04-24 17:23:10,925 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/1.9.1/plexus-compiler-api-1.9.1.jar
+2017-04-24 17:23:11,126 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/1.9.1/plexus-compiler-manager-1.9.1.jar
+2017-04-24 17:23:11,633 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/1.9.1/plexus-compiler-manager-1.9.1.jar
+2017-04-24 17:23:11,830 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/1.9.1/plexus-compiler-javac-1.9.1.jar
+2017-04-24 17:23:12,308 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/1.9.1/plexus-compiler-javac-1.9.1.jar
+2017-04-24 17:23:12,753 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 1000:11000:1100 @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\pom.xml.
+2017-04-24 17:23:13,406 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /11000/src/main/java
+2017-04-24 17:23:13,412 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /11000/src/test/java
+2017-04-24 17:23:13,616 [Worker-33] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 12 sec
+2017-04-24 17:23:13,937 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 1000:11000:1100 @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\pom.xml.
+2017-04-24 17:23:14,055 [Worker-35] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 1000:11000:1100 @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\pom.xml.
+2017-04-24 17:23:14,205 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-24 17:23:14,205 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-24 17:23:14,208 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-24 17:23:14,208 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-24 17:23:15,269 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 1000:11000:1100 @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\pom.xml.
+2017-04-24 17:23:15,577 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-24 17:23:15,578 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-24 17:23:15,583 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-24 17:23:15,584 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-24 19:18:58,437 [Worker-93] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 1000:11000:1100 @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\pom.xml.
+2017-04-24 19:18:58,567 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-24 19:18:58,567 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-24 19:18:58,567 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-24 19:18:58,567 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-24 19:18:59,833 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-24 19:18:59,833 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-24 19:18:59,833 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-24 19:18:59,833 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-24 19:32:21,103 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-24 19:32:21,103 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-24 19:32:21,119 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-24 19:32:21,119 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-25 12:17:23,965 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 12:17:23,969 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-25 12:17:23,973 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 12:17:23,973 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-25 12:28:22,611 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 12:28:22,611 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-25 12:28:22,611 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 12:28:22,611 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-25 12:29:53,025 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 12:29:53,025 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-25 12:29:53,025 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 12:29:53,025 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-25 12:33:46,148 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 12:33:46,164 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-25 12:33:46,164 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 12:33:46,164 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-25 12:34:00,800 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 12:34:00,800 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-25 12:34:00,800 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 12:34:00,800 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-25 12:34:12,288 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 12:34:12,288 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-25 12:34:12,288 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 12:34:12,288 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-25 12:38:30,591 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 12:38:30,591 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-25 12:38:30,591 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 12:38:30,591 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-25 12:38:33,607 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 12:38:33,607 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-25 12:38:33,607 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 12:38:33,607 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-25 12:39:00,535 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 12:39:00,535 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-25 12:39:00,539 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 12:39:00,539 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-25 12:39:24,454 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 12:39:24,454 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-25 12:39:24,458 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 12:39:24,458 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-25 13:06:15,893 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 13:06:15,893 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-25 13:06:15,893 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 13:06:15,893 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-25 13:07:45,689 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 13:07:45,689 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-25 13:07:45,689 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 13:07:45,689 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-25 13:07:55,141 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 13:07:55,141 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-25 13:07:55,141 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 13:07:55,141 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-25 18:26:09,484 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 18:26:09,494 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-25 18:26:09,499 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 18:26:09,499 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-25 18:26:27,667 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 18:26:27,667 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-25 18:26:27,668 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 18:26:27,668 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-25 18:27:42,533 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 18:27:42,534 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-25 18:27:42,536 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 18:27:42,537 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-25 18:27:51,315 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 18:27:51,315 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-25 18:27:51,316 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 18:27:51,316 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-25 18:27:58,584 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 18:27:58,584 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-25 18:27:58,585 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 18:27:58,585 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-25 18:28:10,915 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 18:28:10,915 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-25 18:28:10,916 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 18:28:10,917 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-25 18:28:22,400 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 18:28:22,400 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-25 18:28:22,402 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 18:28:22,403 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-25 18:28:34,708 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 18:28:34,709 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-25 18:28:34,712 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 18:28:34,713 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-25 18:28:40,028 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 18:28:40,028 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-25 18:28:40,029 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 18:28:40,029 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-25 18:48:44,766 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 18:48:44,776 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-25 18:48:44,780 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 18:48:44,781 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-25 18:50:27,773 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 18:50:27,774 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-25 18:50:27,776 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 18:50:27,776 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-25 18:50:31,803 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 18:50:31,804 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-25 18:50:31,805 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 18:50:31,805 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-25 18:58:55,410 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 1000:11000:1100 @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\pom.xml.
+2017-04-25 18:58:55,616 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 18:58:55,617 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-25 18:58:55,618 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 18:58:55,618 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-25 20:53:36,267 [Worker-37] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 1000:11000:1100 @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\pom.xml.
+2017-04-25 20:53:36,985 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/lowagie/itext/2.1.7/itext-2.1.7.pom
+2017-04-25 20:53:37,434 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/lowagie/itext/2.1.7/itext-2.1.7.pom
+2017-04-25 20:53:37,699 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/bouncycastle/bcmail-jdk14/138/bcmail-jdk14-138.pom
+2017-04-25 20:53:38,171 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/bouncycastle/bcmail-jdk14/138/bcmail-jdk14-138.pom
+2017-04-25 20:53:38,395 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/bouncycastle/bcprov-jdk14/138/bcprov-jdk14-138.pom
+2017-04-25 20:53:38,924 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/bouncycastle/bcprov-jdk14/138/bcprov-jdk14-138.pom
+2017-04-25 20:53:39,162 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/bouncycastle/bctsp-jdk14/138/bctsp-jdk14-138.pom
+2017-04-25 20:53:39,694 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/bouncycastle/bctsp-jdk14/138/bctsp-jdk14-138.pom
+2017-04-25 20:53:39,922 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/bouncycastle/bctsp-jdk14/1.38/bctsp-jdk14-1.38.pom
+2017-04-25 20:53:40,394 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/bouncycastle/bctsp-jdk14/1.38/bctsp-jdk14-1.38.pom
+2017-04-25 20:53:40,649 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/bouncycastle/bcprov-jdk14/1.38/bcprov-jdk14-1.38.pom
+2017-04-25 20:53:41,143 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/bouncycastle/bcprov-jdk14/1.38/bcprov-jdk14-1.38.pom
+2017-04-25 20:53:41,377 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/bouncycastle/bcmail-jdk14/1.38/bcmail-jdk14-1.38.pom
+2017-04-25 20:53:41,829 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/bouncycastle/bcmail-jdk14/1.38/bcmail-jdk14-1.38.pom
+2017-04-25 20:53:42,078 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/lowagie/itext/2.1.7/itext-2.1.7.jar
+2017-04-25 20:54:17,371 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/lowagie/itext/2.1.7/itext-2.1.7.jar
+2017-04-25 20:54:17,582 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/bouncycastle/bcmail-jdk14/138/bcmail-jdk14-138.jar
+2017-04-25 20:54:20,381 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/bouncycastle/bcmail-jdk14/138/bcmail-jdk14-138.jar
+2017-04-25 20:54:20,609 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/bouncycastle/bcprov-jdk14/138/bcprov-jdk14-138.jar
+2017-04-25 20:54:44,711 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/bouncycastle/bcprov-jdk14/138/bcprov-jdk14-138.jar
+2017-04-25 20:54:44,925 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/bouncycastle/bctsp-jdk14/1.38/bctsp-jdk14-1.38.jar
+2017-04-25 20:54:45,532 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/bouncycastle/bctsp-jdk14/1.38/bctsp-jdk14-1.38.jar
+2017-04-25 20:54:45,757 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/bouncycastle/bcprov-jdk14/1.38/bcprov-jdk14-1.38.jar
+2017-04-25 20:54:53,277 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/bouncycastle/bcprov-jdk14/1.38/bcprov-jdk14-1.38.jar
+2017-04-25 20:54:53,491 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/bouncycastle/bcmail-jdk14/1.38/bcmail-jdk14-1.38.jar
+2017-04-25 20:54:54,834 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/bouncycastle/bcmail-jdk14/1.38/bcmail-jdk14-1.38.jar
+2017-04-25 20:54:55,458 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 20:54:55,458 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-25 20:54:55,459 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 20:54:55,459 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-25 20:54:56,658 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 20:54:56,658 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-25 20:54:56,659 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 20:54:56,659 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-25 20:55:03,341 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 1000:11000:1100 @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\pom.xml.
+2017-04-25 20:55:03,422 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 20:55:03,423 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-25 20:55:03,424 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 20:55:03,424 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-25 20:56:48,958 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 20:56:48,958 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-25 20:56:48,960 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 20:56:48,960 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-25 20:56:55,533 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 20:56:55,534 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-25 20:56:55,535 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 20:56:55,535 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-25 20:57:06,150 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 20:57:06,150 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-25 20:57:06,151 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 20:57:06,152 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-25 20:58:06,005 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 20:58:06,006 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-25 20:58:06,007 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 20:58:06,007 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-25 20:58:11,116 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 20:58:11,116 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-25 20:58:11,118 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 20:58:11,119 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-25 20:58:37,313 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 20:58:37,313 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-25 20:58:37,314 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 20:58:37,315 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-25 21:05:36,419 [Worker-40] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 1000:11000:1100 @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\pom.xml.
+2017-04-25 21:06:20,318 [Worker-44] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 1000:11000:1100 @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\pom.xml.
+2017-04-25 21:06:20,398 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 21:06:20,399 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-25 21:06:20,399 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 21:06:20,400 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-25 21:06:30,695 [Worker-40] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 1000:11000:1100 @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\pom.xml.
+2017-04-25 21:06:38,415 [Worker-46] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 1000:11000:1100 @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\pom.xml.
+2017-04-25 21:06:38,490 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 21:06:38,490 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-25 21:06:38,491 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 21:06:38,491 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-25 21:51:20,792 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 21:51:20,792 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-25 21:51:20,793 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 21:51:20,793 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-25 22:03:18,007 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 22:03:18,007 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-25 22:03:18,008 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 22:03:18,009 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-25 22:03:28,494 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 22:03:28,495 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-25 22:03:28,495 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 22:03:28,496 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-25 22:05:45,599 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 22:05:45,600 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-25 22:05:45,601 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 22:05:45,602 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-25 22:06:41,697 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 22:06:41,697 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-25 22:06:41,699 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 22:06:41,699 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-25 22:30:39,381 [Worker-75] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:parent-project:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\pom.xml.
+2017-04-25 22:30:39,535 [Worker-75] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /parent-project/src/main/java
+2017-04-25 22:30:39,535 [Worker-75] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /parent-project/src/test/java
+2017-04-25 22:30:39,629 [Worker-75] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2017-04-25 22:30:40,032 [Worker-74] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:parent-project:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\pom.xml.
+2017-04-25 22:30:40,129 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 22:30:40,131 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\src\main\resources
+2017-04-25 22:30:40,132 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 22:30:40,133 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\src\test\resources
+2017-04-25 22:30:40,790 [Worker-60] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:parent-project:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\pom.xml.
+2017-04-25 22:30:41,159 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 22:30:41,160 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\src\main\resources
+2017-04-25 22:30:41,161 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 22:30:41,162 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\src\test\resources
+2017-04-25 22:31:50,801 [Worker-60] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.websys.multimodule:parent-project:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\pom.xml.
+2017-04-25 22:45:00,385 [Worker-80] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.websys.multimodule:parent-project:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\pom.xml.
+2017-04-25 22:46:40,876 [Worker-85] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-04-25 22:46:40,902 [Worker-85] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.websys.multimodule:parent-project:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\pom.xml.
+2017-04-25 22:46:41,017 [Worker-85] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-04-25 22:56:22,766 [Worker-92] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:model-lib:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\model-lib\pom.xml.
+2017-04-25 22:56:23,739 [Worker-92] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.2/maven-war-plugin-2.2.jar
+2017-04-25 22:56:24,829 [Worker-92] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.2/maven-war-plugin-2.2.jar
+2017-04-25 22:56:24,931 [Worker-92] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:WebApp1:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\pom.xml.
+2017-04-25 22:56:24,971 [Worker-92] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:WebApp2:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\pom.xml.
+2017-04-25 22:56:25,302 [Worker-92] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.2/maven-war-plugin-2.2.pom
+2017-04-25 22:56:25,785 [Worker-92] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.2/maven-war-plugin-2.2.pom
+2017-04-25 22:56:26,210 [Worker-92] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.3.1/xstream-1.3.1.pom
+2017-04-25 22:56:26,687 [Worker-92] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.3.1/xstream-1.3.1.pom
+2017-04-25 22:56:26,918 [Worker-92] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream-parent/1.3.1/xstream-parent-1.3.1.pom
+2017-04-25 22:56:27,421 [Worker-92] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream-parent/1.3.1/xstream-parent-1.3.1.pom
+2017-04-25 22:56:27,641 [Worker-92] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.pom
+2017-04-25 22:56:28,094 [Worker-92] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.pom
+2017-04-25 22:56:28,317 [Worker-92] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.0-beta-2/maven-filtering-1.0-beta-2.pom
+2017-04-25 22:56:28,783 [Worker-92] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.0-beta-2/maven-filtering-1.0-beta-2.pom
+2017-04-25 22:56:29,068 [Worker-92] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.6/plexus-interpolation-1.6.pom
+2017-04-25 22:56:29,595 [Worker-92] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.6/plexus-interpolation-1.6.pom
+2017-04-25 22:56:29,831 [Worker-92] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.3.1/xstream-1.3.1.jar
+2017-04-25 22:56:31,911 [Worker-92] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.3.1/xstream-1.3.1.jar
+2017-04-25 22:56:32,117 [Worker-92] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.jar
+2017-04-25 22:56:32,695 [Worker-92] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.jar
+2017-04-25 22:56:32,900 [Worker-92] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.0-beta-2/maven-filtering-1.0-beta-2.jar
+2017-04-25 22:56:33,521 [Worker-92] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.0-beta-2/maven-filtering-1.0-beta-2.jar
+2017-04-25 22:56:34,331 [Worker-92] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WebApp1/src/main/java
+2017-04-25 22:56:34,331 [Worker-92] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WebApp1/src/test/java
+2017-04-25 22:56:35,290 [Worker-81] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:WebApp1:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\pom.xml.
+2017-04-25 22:56:35,352 [Worker-81] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:WebApp2:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\pom.xml.
+2017-04-25 22:56:35,422 [Worker-81] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:model-lib:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\model-lib\pom.xml.
+2017-04-25 22:56:35,499 [Worker-92] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /model-lib/src/main/java
+2017-04-25 22:56:35,499 [Worker-92] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /model-lib/src/test/java
+2017-04-25 22:56:35,671 [Worker-92] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WebApp2/src/main/java
+2017-04-25 22:56:35,671 [Worker-92] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WebApp2/src/test/java
+2017-04-25 22:56:36,212 [Worker-92] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 3 project(s) in 13 sec
+2017-04-25 22:56:37,395 [Worker-95] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:WebApp1:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\pom.xml.
+2017-04-25 22:56:37,473 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 22:56:37,473 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\src\main\resources
+2017-04-25 22:56:37,474 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 22:56:37,475 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\src\test\resources
+2017-04-25 22:56:37,569 [Worker-95] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:WebApp2:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\pom.xml.
+2017-04-25 22:56:37,646 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 22:56:37,647 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\main\resources
+2017-04-25 22:56:37,648 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 22:56:37,648 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\test\resources
+2017-04-25 22:56:37,754 [Worker-95] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:model-lib:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\model-lib\pom.xml.
+2017-04-25 22:56:37,816 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 22:56:37,817 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\model-lib\src\main\resources
+2017-04-25 22:56:37,818 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 22:56:37,819 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\model-lib\src\test\resources
+2017-04-25 23:09:14,867 [Worker-102] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:WebApp2:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\pom.xml.
+2017-04-25 23:09:15,805 [Worker-102] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/groupId of project2/artifactId of project2/version  of project2/artifactId of project2-version  of project2.pom
+2017-04-25 23:09:15,805 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for groupId of project2:artifactId of project2:jar:version  of project2 is missing, no dependency information available
+2017-04-25 23:09:16,289 [Worker-102] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/groupId of project2/artifactId of project2/version  of project2/artifactId of project2-version  of project2.jar
+2017-04-25 23:09:16,336 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for groupId of project2:artifactId of project2:jar:version  of project2 is missing, no dependency information available
+2017-04-25 23:09:16,445 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:09:16,445 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\main\resources
+2017-04-25 23:09:16,445 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:09:16,445 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\test\resources
+2017-04-25 23:09:16,445 [Worker-102] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WebApp2
+2017-04-25 23:09:16,445 [Worker-102] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WebApp2
+2017-04-25 23:09:16,461 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:10:05,291 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for groupId of project2:artifactId of project2:jar:version  of project2 is missing, no dependency information available
+2017-04-25 23:10:05,432 [Worker-103] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:WebApp2:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\pom.xml.
+2017-04-25 23:10:05,447 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for groupId of project2:artifactId of project2:jar:version  of project2 is missing, no dependency information available
+2017-04-25 23:10:05,479 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for groupId of project2:artifactId of project2:jar:version  of project2 is missing, no dependency information available
+2017-04-25 23:10:05,541 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:10:05,541 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\main\resources
+2017-04-25 23:10:05,541 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:10:05,541 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\test\resources
+2017-04-25 23:10:05,541 [Worker-103] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WebApp2
+2017-04-25 23:10:05,541 [Worker-103] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WebApp2
+2017-04-25 23:10:05,541 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:10:26,133 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for groupId of project2:artifactId of project2:jar:version  of project2 is missing, no dependency information available
+2017-04-25 23:10:26,274 [Worker-105] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:WebApp2:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\pom.xml.
+2017-04-25 23:10:26,290 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for groupId of project2:artifactId of project2:jar:version  of project2 is missing, no dependency information available
+2017-04-25 23:10:26,336 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for groupId of project2:artifactId of project2:jar:version  of project2 is missing, no dependency information available
+2017-04-25 23:10:26,383 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:10:26,383 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\main\resources
+2017-04-25 23:10:26,383 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:10:26,383 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\test\resources
+2017-04-25 23:10:26,383 [Worker-105] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WebApp2
+2017-04-25 23:10:26,383 [Worker-105] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WebApp2
+2017-04-25 23:10:26,383 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:10:47,271 [Worker-102] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:WebApp2:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\pom.xml.
+2017-04-25 23:10:47,427 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:10:47,427 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\main\resources
+2017-04-25 23:10:47,427 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:10:47,442 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\test\resources
+2017-04-25 23:10:47,442 [Worker-102] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WebApp2
+2017-04-25 23:10:47,442 [Worker-102] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WebApp2
+2017-04-25 23:10:47,442 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:10:48,630 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:10:48,630 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\main\resources
+2017-04-25 23:10:48,630 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:10:48,646 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\test\resources
+2017-04-25 23:10:53,662 [Worker-100] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:WebApp2:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\pom.xml.
+2017-04-25 23:10:53,818 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:10:53,818 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\main\resources
+2017-04-25 23:10:53,834 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:10:53,834 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\test\resources
+2017-04-25 23:10:53,834 [Worker-100] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WebApp2
+2017-04-25 23:10:53,834 [Worker-100] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WebApp2
+2017-04-25 23:10:53,834 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:11:03,564 [Worker-103] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:WebApp2:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\pom.xml.
+2017-04-25 23:11:03,721 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:11:03,721 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\main\resources
+2017-04-25 23:11:03,721 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:11:03,721 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\test\resources
+2017-04-25 23:11:03,721 [Worker-103] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WebApp2
+2017-04-25 23:11:03,721 [Worker-103] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WebApp2
+2017-04-25 23:11:03,736 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:12:14,187 [Worker-98] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:WebApp1:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\pom.xml.
+2017-04-25 23:12:14,242 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:12:14,242 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\src\main\resources
+2017-04-25 23:12:14,242 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:12:14,242 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\src\test\resources
+2017-04-25 23:12:14,242 [Worker-98] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WebApp1
+2017-04-25 23:12:14,242 [Worker-98] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WebApp1
+2017-04-25 23:12:14,242 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:12:34,548 [Worker-96] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:WebApp1:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\pom.xml.
+2017-04-25 23:12:34,610 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:12:34,610 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\src\main\resources
+2017-04-25 23:12:34,610 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:12:34,610 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\src\test\resources
+2017-04-25 23:12:34,610 [Worker-96] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WebApp1
+2017-04-25 23:12:34,610 [Worker-96] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WebApp1
+2017-04-25 23:12:34,610 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:12:44,692 [Worker-96] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:WebApp2:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\pom.xml.
+2017-04-25 23:12:44,770 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:12:44,770 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\main\resources
+2017-04-25 23:12:44,770 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:12:44,770 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\test\resources
+2017-04-25 23:12:44,770 [Worker-96] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WebApp2
+2017-04-25 23:12:44,770 [Worker-96] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WebApp2
+2017-04-25 23:12:44,770 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:12:45,932 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:12:45,932 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\main\resources
+2017-04-25 23:12:45,932 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:12:45,932 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\test\resources
+2017-04-25 23:12:57,198 [Worker-107] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:model-lib:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\model-lib\pom.xml.
+2017-04-25 23:12:57,245 [Worker-107] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:WebApp2:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\pom.xml.
+2017-04-25 23:12:57,379 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:12:57,379 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\model-lib\src\main\resources
+2017-04-25 23:12:57,379 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:12:57,379 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\model-lib\src\test\resources
+2017-04-25 23:12:57,473 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:12:57,473 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\main\resources
+2017-04-25 23:12:57,473 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:12:57,473 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\test\resources
+2017-04-25 23:12:58,692 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:12:58,692 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\model-lib\src\main\resources
+2017-04-25 23:12:58,692 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:12:58,692 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\model-lib\src\test\resources
+2017-04-25 23:13:25,771 [Worker-108] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:WebApp1:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\pom.xml.
+2017-04-25 23:13:25,850 [Worker-108] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:WebApp2:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\pom.xml.
+2017-04-25 23:13:26,193 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:13:26,193 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\src\main\resources
+2017-04-25 23:13:26,193 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:13:26,193 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\src\test\resources
+2017-04-25 23:13:26,193 [Worker-108] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WebApp1
+2017-04-25 23:13:26,193 [Worker-108] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WebApp1
+2017-04-25 23:13:26,193 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:13:26,240 [Worker-108] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:model-lib:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\model-lib\pom.xml.
+2017-04-25 23:13:26,303 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:13:26,318 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\model-lib\src\main\resources
+2017-04-25 23:13:26,318 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:13:26,318 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\model-lib\src\test\resources
+2017-04-25 23:13:26,365 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:13:26,365 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\main\resources
+2017-04-25 23:13:26,365 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:13:26,365 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\test\resources
+2017-04-25 23:13:27,554 [Worker-106] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:13:27,554 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\src\main\resources
+2017-04-25 23:13:27,554 [Worker-106] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:13:27,554 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\src\test\resources
+2017-04-25 23:15:03,442 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 23:15:03,442 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-25 23:15:03,442 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 23:15:03,442 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-25 23:21:19,942 [Worker-116] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:WebApp1:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\pom.xml.
+2017-04-25 23:21:20,137 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:21:20,138 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\src\main\resources
+2017-04-25 23:21:20,138 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:21:20,139 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\src\test\resources
+2017-04-25 23:21:20,139 [Worker-116] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WebApp1
+2017-04-25 23:21:20,139 [Worker-116] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WebApp1
+2017-04-25 23:21:20,141 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:21:29,864 [Worker-113] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:WebApp1:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\pom.xml.
+2017-04-25 23:21:30,040 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:21:30,041 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\src\main\resources
+2017-04-25 23:21:30,042 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:21:30,042 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\src\test\resources
+2017-04-25 23:21:30,042 [Worker-113] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WebApp1
+2017-04-25 23:21:30,043 [Worker-113] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WebApp1
+2017-04-25 23:21:30,045 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:22:27,206 [Worker-110] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.websys.multimodule:parent-project:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\pom.xml.
+2017-04-25 23:22:27,247 [Worker-110] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:WebApp2:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\pom.xml.
+2017-04-25 23:22:27,334 [Worker-110] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:model-lib:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\model-lib\pom.xml.
+2017-04-25 23:22:27,381 [Worker-110] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:WebApp1:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\pom.xml.
+2017-04-25 23:22:28,820 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:22:28,821 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\model-lib\src\main\resources
+2017-04-25 23:22:28,822 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:22:28,823 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\model-lib\src\test\resources
+2017-04-25 23:22:28,867 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:22:28,868 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\src\main\resources
+2017-04-25 23:22:28,869 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:22:28,869 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\src\test\resources
+2017-04-25 23:22:28,933 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:22:28,934 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\main\resources
+2017-04-25 23:22:28,935 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:22:28,936 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\test\resources
+2017-04-25 23:22:46,289 [Worker-117] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.websys.multimodule:parent-project:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\pom.xml.
+2017-04-25 23:22:46,330 [Worker-117] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:WebApp2:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\pom.xml.
+2017-04-25 23:22:46,403 [Worker-117] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:model-lib:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\model-lib\pom.xml.
+2017-04-25 23:22:46,446 [Worker-117] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:WebApp1:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\pom.xml.
+2017-04-25 23:22:47,919 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:22:47,920 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\model-lib\src\main\resources
+2017-04-25 23:22:47,920 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:22:47,921 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\model-lib\src\test\resources
+2017-04-25 23:22:47,965 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:22:47,966 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\src\main\resources
+2017-04-25 23:22:47,966 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:22:47,967 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\src\test\resources
+2017-04-25 23:22:48,020 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:22:48,021 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\main\resources
+2017-04-25 23:22:48,021 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:22:48,022 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\test\resources
+2017-04-25 23:23:23,015 [Worker-116] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/maven-metadata.xml
+2017-04-25 23:23:23,443 [Worker-116] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/maven-metadata.xml
+2017-04-25 23:23:23,659 [Worker-116] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/3.0.0/maven-war-plugin-3.0.0.pom
+2017-04-25 23:23:24,122 [Worker-116] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/3.0.0/maven-war-plugin-3.0.0.pom
+2017-04-25 23:23:24,338 [Worker-116] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/30/maven-plugins-30.pom
+2017-04-25 23:23:24,812 [Worker-116] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/30/maven-plugins-30.pom
+2017-04-25 23:23:25,036 [Worker-116] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/3.0.0/maven-war-plugin-3.0.0.jar
+2017-04-25 23:23:26,160 [Worker-116] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/3.0.0/maven-war-plugin-3.0.0.jar
+2017-04-25 23:23:26,226 [Worker-116] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.websys.multimodule:parent-project:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\pom.xml.
+2017-04-25 23:23:26,288 [Worker-116] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:WebApp2:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\pom.xml.
+2017-04-25 23:23:26,378 [Worker-116] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:model-lib:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\model-lib\pom.xml.
+2017-04-25 23:23:26,430 [Worker-116] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:WebApp1:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\pom.xml.
+2017-04-25 23:23:27,008 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:23:27,009 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\model-lib\src\main\resources
+2017-04-25 23:23:27,010 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:23:27,011 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\model-lib\src\test\resources
+2017-04-25 23:23:27,057 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:23:27,057 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\src\main\resources
+2017-04-25 23:23:27,058 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:23:27,058 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\src\test\resources
+2017-04-25 23:23:27,123 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:23:27,124 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\main\resources
+2017-04-25 23:23:27,125 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:23:27,125 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\test\resources
+2017-04-25 23:24:30,911 [Worker-115] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.websys.multimodule:parent-project:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\pom.xml.
+2017-04-25 23:24:30,955 [Worker-115] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:WebApp2:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\pom.xml.
+2017-04-25 23:24:31,033 [Worker-115] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:model-lib:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\model-lib\pom.xml.
+2017-04-25 23:24:31,075 [Worker-115] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:WebApp1:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\pom.xml.
+2017-04-25 23:24:32,532 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:24:32,532 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\model-lib\src\main\resources
+2017-04-25 23:24:32,533 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:24:32,533 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\model-lib\src\test\resources
+2017-04-25 23:24:32,585 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:24:32,585 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\src\main\resources
+2017-04-25 23:24:32,586 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:24:32,587 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\src\test\resources
+2017-04-25 23:24:32,645 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:24:32,646 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\main\resources
+2017-04-25 23:24:32,647 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:24:32,647 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\test\resources
+2017-04-25 23:25:03,133 [Worker-115] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.websys.multimodule:parent-project:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\pom.xml.
+2017-04-25 23:25:03,166 [Worker-115] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:WebApp2:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\pom.xml.
+2017-04-25 23:25:03,274 [Worker-115] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:model-lib:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\model-lib\pom.xml.
+2017-04-25 23:25:03,317 [Worker-115] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:WebApp1:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\pom.xml.
+2017-04-25 23:25:04,783 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:25:04,784 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\model-lib\src\main\resources
+2017-04-25 23:25:04,785 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:25:04,785 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\model-lib\src\test\resources
+2017-04-25 23:25:04,832 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:25:04,832 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\src\main\resources
+2017-04-25 23:25:04,833 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:25:04,833 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\src\test\resources
+2017-04-25 23:25:04,887 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:25:04,887 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\main\resources
+2017-04-25 23:25:04,888 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-25 23:25:04,889 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\test\resources
+2017-04-27 15:41:13,650 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-27 15:41:13,697 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-27 15:41:13,697 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-27 15:41:13,697 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-27 15:41:14,478 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 15:41:14,478 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\model-lib\src\main\resources
+2017-04-27 15:41:14,478 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 15:41:14,478 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\model-lib\src\test\resources
+2017-04-27 15:41:15,708 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 15:41:15,708 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\src\main\resources
+2017-04-27 15:41:15,708 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 15:41:15,708 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\src\test\resources
+2017-04-27 15:41:15,926 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 15:41:15,926 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\main\resources
+2017-04-27 15:41:15,926 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 15:41:15,926 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\test\resources
+2017-04-27 16:13:50,429 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 1000:11000:1100 @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\pom.xml.
+2017-04-27 16:13:50,741 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-27 16:13:50,741 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-27 16:13:50,741 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-27 16:13:50,741 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-27 16:13:50,835 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:WebApp1:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\pom.xml.
+2017-04-27 16:13:52,476 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 16:13:52,476 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\src\main\resources
+2017-04-27 16:13:52,491 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 16:13:52,491 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\src\test\resources
+2017-04-27 16:13:52,554 [Worker-26] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WebApp1
+2017-04-27 16:13:52,554 [Worker-26] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WebApp1
+2017-04-27 16:13:52,554 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 16:13:53,257 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:WebApp2:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\pom.xml.
+2017-04-27 16:13:54,070 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 16:13:54,070 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\main\resources
+2017-04-27 16:13:54,070 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 16:13:54,070 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\test\resources
+2017-04-27 16:13:54,164 [Worker-26] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WebApp2
+2017-04-27 16:13:54,164 [Worker-26] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WebApp2
+2017-04-27 16:13:54,164 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 16:13:54,289 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:model-lib:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\model-lib\pom.xml.
+2017-04-27 16:13:54,445 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:WebApp1:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\pom.xml.
+2017-04-27 16:13:54,820 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:WebApp2:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\pom.xml.
+2017-04-27 16:13:55,257 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 16:13:55,257 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\model-lib\src\main\resources
+2017-04-27 16:13:55,257 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 16:13:55,257 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\model-lib\src\test\resources
+2017-04-27 16:13:55,336 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.websys.multimodule:parent-project:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\pom.xml.
+2017-04-27 16:13:55,382 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:model-lib:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\model-lib\pom.xml.
+2017-04-27 16:13:55,461 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:WebApp1:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\pom.xml.
+2017-04-27 16:13:55,523 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:WebApp2:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\pom.xml.
+2017-04-27 16:13:57,789 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-27 16:13:57,789 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-27 16:13:57,789 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-27 16:13:57,789 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-27 16:13:57,867 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 16:13:57,867 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\model-lib\src\main\resources
+2017-04-27 16:13:57,867 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 16:13:57,883 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\model-lib\src\test\resources
+2017-04-27 16:13:57,976 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 16:13:57,976 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\src\main\resources
+2017-04-27 16:13:57,976 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 16:13:57,976 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\src\test\resources
+2017-04-27 16:13:58,070 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 16:13:58,070 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\main\resources
+2017-04-27 16:13:58,070 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 16:13:58,070 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\test\resources
+2017-04-27 18:01:58,509 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-27 18:01:58,509 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-27 18:01:58,509 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-27 18:01:58,509 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-27 18:02:04,072 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-27 18:02:04,072 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-27 18:02:04,072 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-27 18:02:04,072 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-27 18:11:19,624 [Worker-71] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:WebApp1:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\pom.xml.
+2017-04-27 18:11:19,718 [Worker-71] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:WebApp2:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\pom.xml.
+2017-04-27 18:11:19,937 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 18:11:19,937 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\src\main\resources
+2017-04-27 18:11:19,953 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 18:11:19,953 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\src\test\resources
+2017-04-27 18:11:19,953 [Worker-71] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WebApp1
+2017-04-27 18:11:19,953 [Worker-71] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WebApp1
+2017-04-27 18:11:19,953 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 18:11:20,015 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 18:11:20,015 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\main\resources
+2017-04-27 18:11:20,031 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 18:11:20,031 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\test\resources
+2017-04-27 18:11:21,203 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 18:11:21,203 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\src\main\resources
+2017-04-27 18:11:21,203 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 18:11:21,218 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\src\test\resources
+2017-04-27 18:11:28,265 [Worker-73] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:WebApp2:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\pom.xml.
+2017-04-27 18:11:28,406 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 18:11:28,406 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\main\resources
+2017-04-27 18:11:28,406 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 18:11:28,406 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\test\resources
+2017-04-27 18:11:28,406 [Worker-73] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WebApp2
+2017-04-27 18:11:28,406 [Worker-73] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WebApp2
+2017-04-27 18:11:28,406 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 18:11:29,656 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 18:11:29,656 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\main\resources
+2017-04-27 18:11:29,656 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 18:11:29,656 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\test\resources
+2017-04-27 18:11:30,797 [Worker-79] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:WebApp2:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\pom.xml.
+2017-04-27 18:11:30,938 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 18:11:30,938 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\main\resources
+2017-04-27 18:11:30,938 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 18:11:30,938 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\test\resources
+2017-04-27 18:11:30,938 [Worker-79] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WebApp2
+2017-04-27 18:11:30,938 [Worker-79] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WebApp2
+2017-04-27 18:11:30,938 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 18:11:55,247 [Worker-73] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:model-lib:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\model-lib\pom.xml.
+2017-04-27 18:11:55,326 [Worker-73] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:WebApp1:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\pom.xml.
+2017-04-27 18:11:55,372 [Worker-73] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websys.multimodule:WebApp2:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\pom.xml.
+2017-04-27 18:11:55,607 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 18:11:55,607 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\model-lib\src\main\resources
+2017-04-27 18:11:55,622 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 18:11:55,622 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\model-lib\src\test\resources
+2017-04-27 18:11:55,669 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 18:11:55,669 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\src\main\resources
+2017-04-27 18:11:55,669 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 18:11:55,669 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\src\test\resources
+2017-04-27 18:11:55,716 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 18:11:55,732 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\main\resources
+2017-04-27 18:11:55,732 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 18:11:55,732 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\test\resources
+2017-04-27 18:11:56,899 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 18:11:56,899 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\model-lib\src\main\resources
+2017-04-27 18:11:56,899 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 18:11:56,899 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\model-lib\src\test\resources
+2017-04-27 18:34:59,185 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-27 18:34:59,185 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\main\resources
+2017-04-27 18:34:59,185 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-27 18:34:59,185 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\11000\src\test\resources
+2017-04-27 18:34:59,435 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 18:34:59,435 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\model-lib\src\main\resources
+2017-04-27 18:34:59,435 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 18:34:59,435 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\model-lib\src\test\resources
+2017-04-27 18:34:59,967 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 18:34:59,967 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\src\main\resources
+2017-04-27 18:34:59,982 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 18:34:59,982 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\src\test\resources
+2017-04-27 18:35:00,107 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 18:35:00,107 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\main\resources
+2017-04-27 18:35:00,107 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 18:35:00,107 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\test\resources
+2017-04-27 18:36:02,546 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 18:36:02,546 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\model-lib\src\main\resources
+2017-04-27 18:36:02,546 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 18:36:02,546 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\model-lib\src\test\resources
+2017-04-27 18:36:02,577 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 18:36:02,577 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\src\main\resources
+2017-04-27 18:36:02,577 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 18:36:02,577 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp1\src\test\resources
+2017-04-27 18:36:02,577 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 18:36:02,592 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\main\resources
+2017-04-27 18:36:02,592 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 18:36:02,592 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\parent-project\WebApp2\src\test\resources
+2017-04-27 18:45:12,957 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: simpleWebApp:web-app-master:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\web-app-master\pom.xml.
+2017-04-27 18:45:13,566 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /web-app-master/src/main/java
+2017-04-27 18:45:13,566 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /web-app-master/src/main/resources
+2017-04-27 18:45:13,566 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /web-app-master/src/test/java
+2017-04-27 18:45:15,129 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: simpleWebApp:web-app-master:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\web-app-master\pom.xml.
+2017-04-27 18:45:16,489 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2017-04-27 18:45:16,973 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: simpleWebApp:web-app-master:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\web-app-master\pom.xml.
+2017-04-27 18:45:17,036 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 18:45:17,051 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-27 18:45:17,051 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 18:45:17,051 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\web-app-master\src\test\resources
+2017-04-27 18:50:02,016 [Worker-18] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:558) ~[org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:567) ~[org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:511) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:466) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:336) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:289) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:154) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:89) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:200) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734) [org.eclipse.core.resources_3.9.0.v20140514-1307.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206) [org.eclipse.core.resources_3.9.0.v20140514-1307.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246) [org.eclipse.core.resources_3.9.0.v20140514-1307.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:299) [org.eclipse.core.resources_3.9.0.v20140514-1307.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:302) [org.eclipse.core.resources_3.9.0.v20140514-1307.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:358) [org.eclipse.core.resources_3.9.0.v20140514-1307.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:381) [org.eclipse.core.resources_3.9.0.v20140514-1307.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143) [org.eclipse.core.resources_3.9.0.v20140514-1307.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241) [org.eclipse.core.resources_3.9.0.v20140514-1307.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.0.v20140424-0053.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: Duplicated tag: 'finalName' (position: START_TAG seen ...</finalName>\r\n   \r\n\t\t<finalName>... @23:14) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:127) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:91) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:556) ~[org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Duplicated tag: 'finalName' (position: START_TAG seen ...</finalName>\r\n   \r\n\t\t<finalName>... @23:14) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkFieldWithDuplicate(MavenXpp3Reader.java:114) ~[maven-model-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseBuild(MavenXpp3Reader.java:918) ~[maven-model-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2239) ~[maven-model-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3807) ~[maven-model-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:557) ~[maven-model-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:122) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	... 26 common frames omitted
+2017-04-27 18:50:13,578 [Worker-23] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/mortbay/jetty/maven-jetty-plugin/maven-metadata.xml
+2017-04-27 18:50:14,141 [Worker-23] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/mortbay/jetty/maven-jetty-plugin/maven-metadata.xml
+2017-04-27 18:50:14,375 [Worker-23] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/mortbay/jetty/maven-jetty-plugin/6.1.26/maven-jetty-plugin-6.1.26.pom
+2017-04-27 18:50:14,938 [Worker-23] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/mortbay/jetty/maven-jetty-plugin/6.1.26/maven-jetty-plugin-6.1.26.pom
+2017-04-27 18:50:15,172 [Worker-23] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/mortbay/jetty/project/6.1.26/project-6.1.26.pom
+2017-04-27 18:50:15,766 [Worker-23] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/mortbay/jetty/project/6.1.26/project-6.1.26.pom
+2017-04-27 18:50:16,063 [Worker-23] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/mortbay/jetty/maven-jetty-plugin/6.1.26/maven-jetty-plugin-6.1.26.jar
+2017-04-27 18:50:17,141 [Worker-23] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/mortbay/jetty/maven-jetty-plugin/6.1.26/maven-jetty-plugin-6.1.26.jar
+2017-04-27 18:50:17,282 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: simpleWebApp:web-app-master:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\web-app-master\pom.xml.
+2017-04-27 18:50:17,422 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 18:50:17,422 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-27 18:50:17,422 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 18:50:17,422 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\web-app-master\src\test\resources
+2017-04-27 18:50:17,422 [Worker-23] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of web-app-master
+2017-04-27 18:50:17,422 [Worker-23] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for web-app-master
+2017-04-27 18:50:17,422 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 18:50:18,552 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 18:50:18,552 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-27 18:50:18,552 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 18:50:18,552 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\web-app-master\src\test\resources
+2017-04-27 19:00:30,394 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: simpleWebApp:web-app-master:1.0-SNAPSHOT @ C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\web-app-master\pom.xml.
+2017-04-27 19:00:31,301 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/servlet/servlet-api/2.4/servlet-api-2.4.pom
+2017-04-27 19:00:31,754 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/servlet/servlet-api/2.4/servlet-api-2.4.pom
+2017-04-27 19:00:31,973 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/servlet/jsp/javax.servlet.jsp-api/2.3.1/javax.servlet.jsp-api-2.3.1.pom
+2017-04-27 19:00:32,426 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/servlet/jsp/javax.servlet.jsp-api/2.3.1/javax.servlet.jsp-api-2.3.1.pom
+2017-04-27 19:00:32,660 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/net/java/jvnet-parent/1/jvnet-parent-1.pom
+2017-04-27 19:00:33,145 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/net/java/jvnet-parent/1/jvnet-parent-1.pom
+2017-04-27 19:00:33,379 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/servlet/servlet-api/2.4/servlet-api-2.4.jar
+2017-04-27 19:00:34,520 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/servlet/servlet-api/2.4/servlet-api-2.4.jar
+2017-04-27 19:00:34,754 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/servlet/jsp/javax.servlet.jsp-api/2.3.1/javax.servlet.jsp-api-2.3.1.jar
+2017-04-27 19:00:35,254 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/servlet/jsp/javax.servlet.jsp-api/2.3.1/javax.servlet.jsp-api-2.3.1.jar
+2017-04-27 19:00:35,645 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 19:00:35,645 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-27 19:00:35,645 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 19:00:35,645 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\web-app-master\src\test\resources
+2017-04-27 19:00:35,645 [Worker-25] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of web-app-master
+2017-04-27 19:00:35,645 [Worker-25] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for web-app-master
+2017-04-27 19:00:35,645 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 19:00:36,832 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 19:00:36,832 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-27 19:00:36,832 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 19:00:36,832 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fede-Inspiron\Desktop\facultad\2016\java\federc_java-bootcamp-1\web-app-master\src\test\resources
+2017-04-27 19:06:08,907 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-27 19:06:08,907 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-27 19:06:08,907 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!

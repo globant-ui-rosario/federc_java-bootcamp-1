@@ -1,0 +1,12 @@
+package topic2;
+
+public class SimpleApplication {
+
+	public static void main(String[] args) {
+		
+		System.out.println("Enter your name please, so I can greet you");
+		Scanner s = new Scanner();
+
+	}
+
+}

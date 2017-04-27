@@ -1,0 +1,30 @@
+package keyPoint5;
+
+import java.util.ArrayList;
+
+public class Offer {
+	
+	private float total;
+	private ArrayList<Item> items = new ArrayList<Item>();
+	
+	public Offer(ArrayList<Item> itms){
+		this.setItems(itms);
+	}
+
+	public float getTotal() {
+		return total;
+	}
+
+	public void setTotal(float total) {
+		this.total = total;
+	}
+
+	public ArrayList<Item> getItems() {
+		return items;
+	}
+
+	public void setItems(ArrayList<Item> items) {
+		this.items = items;
+	}
+
+}

@@ -1,0 +1,9 @@
+package keyPoint2;
+
+import java.util.ArrayList;
+
+public interface PaymentMethod {
+	
+	public void pay(ArrayList<ShoppingCartLine> shoppingCartLineCollection);
+
+}

@@ -1,0 +1,23 @@
+package keyPoint7;
+
+public class StopedStated implements State {
+
+	@Override
+	public void pressPlay(AudioPlayer context) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void pressStop(AudioPlayer context) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void pressPause(AudioPlayer context) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,15 @@
+package keyPoint7;
+
+public class AudioPlayer {
+	private State state;
+
+	public State getState() {
+		return state;
+	}
+
+	public void setState(State state) {
+		this.state = state;
+	}
+	
+
+}
