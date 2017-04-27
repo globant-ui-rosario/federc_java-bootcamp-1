@@ -57,7 +57,7 @@ public class ControllerShoppingCart implements Observable{
 	}
 
 	public void changePrice(double p, Item i) {		
-		// change price
+		catalogueItems.changePrice(p,i);
 		notifyObserver("price changed"); // activates a notify
 		
 	}

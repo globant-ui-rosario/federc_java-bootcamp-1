@@ -7,7 +7,7 @@ import java.util.List;
 public class CatalogueItems { // It's a Singleton Class
 	
 	private static CatalogueItems catalogueItems = null;
-	private Item itemSearched;
+	
 	private List<Item> items = new ArrayList<Item>();
 
 	public CatalogueItems() {
@@ -22,6 +22,7 @@ public class CatalogueItems { // It's a Singleton Class
 	}
 
 		public Item searchItem (String name){
+			Item itemSearched = new Item();
 			for (Item i: items){
 				if(i.getName().equalsIgnoreCase(name)){
 					itemSearched=i;
@@ -62,6 +63,11 @@ public class CatalogueItems { // It's a Singleton Class
 			}
 
 		}
-	
+
+		public void changePrice(double p, Item i) {
+			i.setPrice(p);
+			
+		}
+
 
 }

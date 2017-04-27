@@ -1,6 +1,6 @@
 package keyPoint6;
 
-import java.util.ArrayList;
+
 import java.util.List;
 
 public class CreditCardMethod implements PaymentMethod {
@@ -16,17 +16,17 @@ public class CreditCardMethod implements PaymentMethod {
 
 	@Override
 	public void pay(List<ShoppingCartLine> shoppingCartLineCollection) {
+		final double discount=0.9;
 		System.out.println("paid with credit card --> 10% discount");
 		int sum = 0;
-		for (int index = 0; index < shoppingCartLineCollection.size() ; index++){
+		for(ShoppingCartLine line : shoppingCartLineCollection) {
 			
-			double price = shoppingCartLineCollection.get(index).getItem().getPrice();
-			int quant = shoppingCartLineCollection.get(index).getQuant();
 			
-			sum += price*quant;			
+			
+			sum += line.getSubTotal();	
 		}
 		
-		System.out.println("you get: "+ sum*0.9);
+		System.out.println("you get: "+ sum*discount);
 		
 
 	}

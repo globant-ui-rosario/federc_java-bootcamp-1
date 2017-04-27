@@ -9,7 +9,7 @@ public class CashMethod implements PaymentMethod {// I must apply Iterator patte
 	@Override
 	public void pay(List<ShoppingCartLine> shoppingCartLineCollection) {
 		System.out.println("paid with cash --> 90% discount of the most expensive item");
-		double discount = 0.1;
+		final double discount = 0.1;
 		double sum = 0;
 		double mostExpensiveValue = 0;
 		for (ShoppingCartLine SCL: shoppingCartLineCollection){

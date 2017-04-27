@@ -14,7 +14,7 @@ public class MainProgram {
 		// in any moment, the client press some audio player buttoms
 			String userAction = "user action(buttom pressed)";
 			switch (userAction){			
-			case "play":
+			case "play":				
 				PlayingState playingState = new PlayingState();
 				audioPlayer.setState(playingState);
 			case "stop":
