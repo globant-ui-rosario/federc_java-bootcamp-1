@@ -2,6 +2,6 @@ package keyPoint2;
 
 public interface UserService {
 	
-	public void getByDni();
+	public User getByDni(int dni);
 
 }

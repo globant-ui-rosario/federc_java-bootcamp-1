@@ -1,8 +1,10 @@
 package keyPoint2;
 
+import java.util.List;
+
 public interface ItemService {
 	
-	public void getAllItems();
-	public void getItemByName();
+	public List<Item> getAllItems();
+	public Item getItemByName(String name);
 
 }
