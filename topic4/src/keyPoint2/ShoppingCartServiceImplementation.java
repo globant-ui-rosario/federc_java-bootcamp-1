@@ -9,12 +9,21 @@ public class ShoppingCartServiceImplementation implements ShoppingCartService {
 	
 	private DataShoppingCart dataShoppingCart;
 
-	public ShoppingCartServiceImplementation() {
-		dataShoppingCart = new DataShoppingCart();
+	public ShoppingCartServiceImplementation(DataShoppingCart ds) {
+		this.setDataShoppingCart(ds);
+	}
+
+	public DataShoppingCart getDataShoppingCart() {
+		return dataShoppingCart;
+	}
+
+	public void setDataShoppingCart(DataShoppingCart dataShoppingCart) {
+		this.dataShoppingCart = dataShoppingCart;
 	}
 
 	@Override
-	public void createShoppingCart(ShoppingCart shoppingCart) {
+	public ShoppingCart createShoppingCart(User user) {
+		ShoppingCart shoppingCart = new ShoppingCart(user);
 		dataShoppingCart.createShoppingCart(shoppingCart);
 
 	}

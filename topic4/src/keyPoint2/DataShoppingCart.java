@@ -5,8 +5,10 @@ import java.util.List;
 
 public class DataShoppingCart {
 	
+	List<ShoppingCart> shoppingCartCollection;
+	
 	public void createShoppingCart(ShoppingCart shoppingCart) {
-				
+				// agregarlos a la coleccion
 	}
 
 	public List<ShoppingCart> getAllShoppingCart() {
