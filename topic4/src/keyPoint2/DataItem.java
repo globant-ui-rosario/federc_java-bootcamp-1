@@ -4,14 +4,20 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class DataItem {
+	
+	List<Item> itemCollection = new ArrayList<Item>();
 
 	public List<Item> getAllItems() {
-		List<Item> itemCartCollection = new ArrayList<Item>();
-		return itemCartCollection;
+		return itemCollection;
 	}
 
 	public Item getItemByName(String name) {
-		Item item = new Item();
+		Item item = null;
+		for(Item i : itemCollection){
+			if(i.getName().equalsIgnoreCase(name)){
+				item=i;
+			}
+		}
 		return item;
 	}
 

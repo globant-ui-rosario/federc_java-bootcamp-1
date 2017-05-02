@@ -1,9 +1,19 @@
 package keyPoint2;
 
-public class DataUser {
+import java.util.ArrayList;
+import java.util.List;
 
-	public User getByDni(int dni) {
-		User user = new User();
+public class DataUser {
+	
+	private List<User> usersCollection = new ArrayList<User>();
+
+	public User getByDni(String dni) {
+		User user = null;
+		for(User u : usersCollection){
+			if(u.getDni().equals(dni)){
+				user = u;
+			}
+		}
 		return user;
 	}
 

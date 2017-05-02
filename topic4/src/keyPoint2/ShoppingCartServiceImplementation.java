@@ -1,16 +1,12 @@
 package keyPoint2;
 
 
-import java.util.List;
-
-
-
 public class ShoppingCartServiceImplementation implements ShoppingCartService {
 	
 	private DataShoppingCart dataShoppingCart;
 
-	public ShoppingCartServiceImplementation(DataShoppingCart ds) {
-		this.setDataShoppingCart(ds);
+	public ShoppingCartServiceImplementation(DataShoppingCart dataShoppingCart) {
+		this.setDataShoppingCart(dataShoppingCart);
 	}
 
 	public DataShoppingCart getDataShoppingCart() {
@@ -23,14 +19,19 @@ public class ShoppingCartServiceImplementation implements ShoppingCartService {
 
 	@Override
 	public ShoppingCart createShoppingCart(User user) {
-		ShoppingCart shoppingCart = new ShoppingCart(user);
-		dataShoppingCart.createShoppingCart(shoppingCart);
+		return dataShoppingCart.createShoppingCart(user);
 
 	}
 
 	@Override
-	public List<ShoppingCart> getAllShoppingCart() {
-		return dataShoppingCart.getAllShoppingCart();
+	public ShoppingCart getShoppingCartById(int id) {
+		return dataShoppingCart.getShoppingCartById(id);
+
+	}
+	
+	@Override
+	public void pay(ShoppingCart shoppingCart) {
+		dataShoppingCart.pay(shoppingCart);
 
 	}
 

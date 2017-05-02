@@ -6,8 +6,12 @@ public class ItemServiceImplementation implements ItemService {
 	
 	DataItem dataItem;
 	
-	public ItemServiceImplementation(){
-		dataItem = new DataItem();
+	public ItemServiceImplementation(DataItem dataItem){
+		this.setDataItem(dataItem);
+	}
+
+	public void setDataItem(DataItem dataItem) {
+		this.dataItem = dataItem;
 	}
 
 	@Override

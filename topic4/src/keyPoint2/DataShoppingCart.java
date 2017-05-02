@@ -5,15 +5,27 @@ import java.util.List;
 
 public class DataShoppingCart {
 	
-	List<ShoppingCart> shoppingCartCollection;
+	private List<ShoppingCart> shoppingCartCollection = new ArrayList<ShoppingCart>();
 	
-	public void createShoppingCart(ShoppingCart shoppingCart) {
-				// agregarlos a la coleccion
+	
+	public ShoppingCart createShoppingCart(User user) {
+		ShoppingCart shoppingCart = new ShoppingCart(user);
+		shoppingCartCollection.add(shoppingCart);
+		return shoppingCart;
 	}
 
-	public List<ShoppingCart> getAllShoppingCart() {
-		List<ShoppingCart> shoppingCartCollection = new ArrayList<ShoppingCart>();
-		return shoppingCartCollection;
+	public ShoppingCart getShoppingCartById(int id) {
+		ShoppingCart shoppingCart= null;
+		for(ShoppingCart s : shoppingCartCollection){
+			if(s.getId()==id){
+				shoppingCart=s;
+			}
+		}
+		return shoppingCart;
+	}
+
+	public void pay(ShoppingCart shoppingCart) {
+		shoppingCart.setPaid(true);		
 	}
 
 }

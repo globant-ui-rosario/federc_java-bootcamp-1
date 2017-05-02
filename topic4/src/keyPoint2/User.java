@@ -2,7 +2,7 @@ package keyPoint2;
 
 public class User {
 
-	private int dni;
+	private String dni;
 	private String name;
 	public User() {		
 	}
@@ -10,10 +10,10 @@ public class User {
 		this.setName(name);
 	}
 	
-	public int getDni() {
+	public String getDni() {
 		return dni;
 	}
-	public void setDni(int dni) {
+	public void setDni(String dni) {
 		this.dni = dni;
 	}
 	public String getName() {
