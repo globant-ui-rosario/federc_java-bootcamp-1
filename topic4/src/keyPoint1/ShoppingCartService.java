@@ -7,6 +7,7 @@ public interface ShoppingCartService {
 	 * @return it returns a ShoppingCart
 	 */
 	public ShoppingCart createShoppingCart(User user);
-	public ShoppingCart getShoppingCartById(int id); 
+	public ShoppingCart getShoppingCartById(int id);
+	public void pay(ShoppingCart shoppingCart);
 	
 }
