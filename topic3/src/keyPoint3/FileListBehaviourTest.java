@@ -41,7 +41,7 @@ public class FileListBehaviourTest {
 	
 	@Test
 	public void testingFileOpenedBehaviour4() {
-		// current status: File list it´s half full and the file is not in
+		// current status: File list it´s full and the file is not in
 		FileList filelist = new FileList();
 		File fileOpened = new File("open");
 		filelist.addFile(fileOpened);
