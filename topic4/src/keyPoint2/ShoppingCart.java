@@ -9,7 +9,7 @@ public class ShoppingCart {
 	private User user;
 	private List<Item> itemsCollection = new ArrayList<Item>();
 	private Boolean paid = false;
-	
+		
 	public Boolean getPaid() {
 		return paid;
 	}
