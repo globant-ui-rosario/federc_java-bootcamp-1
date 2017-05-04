@@ -33,14 +33,3 @@ local.properties
 
 # Locally stored "Eclipse launch configurations"
 *.launch
-
-# Eclipse
-.classpath
-.project
-.settings/
-
-
-
-# Maven
-log/
-target/
