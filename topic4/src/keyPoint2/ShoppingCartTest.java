@@ -1,38 +1,47 @@
 package keyPoint2;
 
+import static org.easymock.EasyMock.anyObject;
 import static org.easymock.EasyMock.expect;
 import static org.easymock.EasyMock.replay;
-import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertTrue;
 
 import org.easymock.EasyMock;
-import org.junit.Before;
 import org.junit.Test;
 
 public class ShoppingCartTest {
 
-	private ShoppingCart shoppingCart;
-	private ShoppingCartService shoppingCartService;
-
-	@Before
-	public void setUp() {
-		portfolio = new Portfolio();
-		portfolio.setName("Veera's portfolio.");
-		marketMock = EasyMock.createMock(StockMarket.class);
-		portfolio.setStockMarket(marketMock);
-	}
-
 	@Test
 	public void getShoppingCartByIdTest() {
 
-		expect(shoppingCart.setPaid(true)).andReturn(true).times(1);
+		User user = new User();
+		ShoppingCart shoppingCart = new ShoppingCart(user);
+		shoppingCart.setPaid(true);
 
-		// Setup is finished need to activate the mock
-		replay(shoppingCart);
-		int shoppingCartId = 3;
-		DataShoppingCart dataShoppingCart = new DataShoppingCart();
+		IDataShoppingCart dataShoppingCart = EasyMock.mock(IDataShoppingCart.class);
+		EasyMock.reset(dataShoppingCart);
 		ShoppingCartService shoppingCartService = new ShoppingCartServiceImplementation(dataShoppingCart);
-		ShoppingCart shoppingCart = shoppingCartService.getShoppingCartById(shoppingCartId);
-		assertEquals(true, shoppingCart.getPaid());
+		expect(dataShoppingCart.getShoppingCartById(2)).andReturn(shoppingCart);
+		replay(dataShoppingCart);
+
+		ShoppingCart shoppingCartObtained = shoppingCartService.getShoppingCartById(2);
+		assertTrue(shoppingCartObtained.getPaid());
+	}
+
+	@Test
+	public void createShoppingCartTest() {
+
+		IDataShoppingCart dataShoppingCart = EasyMock.mock(DataShoppingCart.class);
+
+		User user = new User();
+		ShoppingCart sc = new ShoppingCart(user);
+
+		expect(dataShoppingCart.saveShoppingCart(anyObject(ShoppingCart.class))).andReturn(sc);
+		replay(dataShoppingCart);
+
+		ShoppingCartService shoppingCartService = new ShoppingCartServiceImplementation(dataShoppingCart);
+
+		ShoppingCart shoppingCart = shoppingCartService.createShoppingCart(user);
+		assertTrue(sc.equals(shoppingCart));
 	}
 
 }

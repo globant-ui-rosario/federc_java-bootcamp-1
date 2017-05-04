@@ -1,25 +1,25 @@
 package keyPoint2;
 
-
 public class ShoppingCartServiceImplementation implements ShoppingCartService {
-	
-	private DataShoppingCart dataShoppingCart;
 
-	public ShoppingCartServiceImplementation(DataShoppingCart dataShoppingCart) {
+	private IDataShoppingCart dataShoppingCart;
+
+	public ShoppingCartServiceImplementation(IDataShoppingCart dataShoppingCart) {
 		this.setDataShoppingCart(dataShoppingCart);
 	}
 
-	public DataShoppingCart getDataShoppingCart() {
+	public IDataShoppingCart getDataShoppingCart() {
 		return dataShoppingCart;
 	}
 
-	public void setDataShoppingCart(DataShoppingCart dataShoppingCart) {
+	public void setDataShoppingCart(IDataShoppingCart dataShoppingCart) {
 		this.dataShoppingCart = dataShoppingCart;
 	}
 
 	@Override
 	public ShoppingCart createShoppingCart(User user) {
-		return dataShoppingCart.createShoppingCart(user);
+		ShoppingCart shoppingCart = new ShoppingCart(user);
+		return dataShoppingCart.saveShoppingCart(shoppingCart);
 
 	}
 
@@ -28,7 +28,7 @@ public class ShoppingCartServiceImplementation implements ShoppingCartService {
 		return dataShoppingCart.getShoppingCartById(id);
 
 	}
-	
+
 	@Override
 	public void pay(ShoppingCart shoppingCart) {
 		dataShoppingCart.pay(shoppingCart);
